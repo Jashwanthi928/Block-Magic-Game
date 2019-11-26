@@ -1,5 +1,5 @@
 # Block Magic Game
-                                                Shaik Mudassir  | Jashwanthi V
+                                                Jashwanthi V | Shaik Mudassir
 This `block magic game is smilar to tetris` develop using canvas and ES6
 
 ## Technology used
