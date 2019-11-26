@@ -1,18 +1,30 @@
-# Block-Magic-Game
-This is a block magic game, where you should arrange blocks and get the points.
-## Authors:
-Jashwanthi V
-
-Shaik Mudassir
+# Block Magic Game
+                                                Shaik Mudassir  | Jashwanthi V
+This `block magic game is smilar to tetris` develop using canvas and ES6
 
 ## Technology used
-HTML, CSS, JavaScript, JQuery, Bootstrap,Canvas
-## Objective
-Create a Block Magic game application
-## Guidelines
-1. when you open the app, you can see the play button.
-2. Click on play button and start play the game.
-3. Your score will be displayed dynamically.
-4. Game over will be displayed as a pop up message.
-## Link
-https://block-magic-be2a94.netlify.com/
++ HTML5
+  * Canvas
++ CSS
++ JavaScript
++ JQuery
++ Bootstrap
++ figma design
+
+## How to play 👨‍💻
+Follow the steps showed in the below link
+1. Use keyboad ⬆️ arrow to rotate
+2. Use ⬅️ and ➡️ arrow to move left and right
+3. Use ⬇️ arrow to seedup your block
+
+## screen shoots
+
+### Welcome page
+![Click here to play](/img/index.png)
+### Instruction
+![Click here to play](/img/instruction.jpg)
+### Game
+![Click here to play](/img/game.jpg)
+
+|[Click here to play](https://shaik80.github.io/Block-Magic-Game/)|[Click here to play video](https://www.youtube.com/watch?v=RkUdXrYAQZw)|
+|-----------------------------------------------------------------|-----------------------------------------------------------------------|
