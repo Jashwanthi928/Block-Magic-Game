@@ -1,6 +1,6 @@
 # Block Magic Game
                                                 Jashwanthi V | Shaik Mudassir
-This is a tetris game in which different types of blocks will be falling from the top. These blocks can be moved using arrow keys. Once the row is filled with blocks, it will disappear and score will increase. When the column is filled with blocks, the game ends.
+This is a tetris game using canvas in which different types of blocks will be falling from the top. These blocks can be moved using arrow keys. Once the row is filled with blocks, it will disappear and score will increase. When the column is filled with blocks, the game ends.
 
 ## Technology used
 + HTML5
