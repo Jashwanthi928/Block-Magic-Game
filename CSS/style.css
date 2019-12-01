@@ -3,10 +3,6 @@
     overflow-x: hidden;
     overflow-y: hidden;
 }
-body{
-    /* background-image: url(../img/background-img.jpg) */
-    /* background-image: linear-gradient(red, yellow); */
-}
 .gamebackground{
     background: url(../);
 }
